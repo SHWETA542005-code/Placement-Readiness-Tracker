@@ -18,13 +18,13 @@ It focuses on explainable decision-making rather than simple numeric calculation
 
 # Folder Structure:
 src/
-├─ Components/
-│  ├─ Result.jsx
-│  └─ SkillInput.jsx
-├─ data/
-│  └─ rules.js
-├─ App.jsx
-├─ App.css
+ * Components/
+   - Result.jsx
+   - SillInput.jsx
+  * data/
+    -rules.js
+  * App.js
+  * App.css
 
 # How It Works:
 The application takes academic and skill inputs, evaluates them using predefined rules,
